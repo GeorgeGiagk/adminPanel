@@ -1,0 +1,22 @@
+{
+	"menu_title": "Μενού",
+	"home": "Αρχική",
+	"analytics": "Αναλυτικά",
+	"customers": "Πελάτες",
+	"notifications_title": "Ειδοποιήσεις",
+	"mail": "Mail",
+	"feedback": "Feedback",
+	"messages": "Μηνύματα",
+	"customers_code": "ΚΩΔ ΠΕΛΑΤΗ",
+	"category": "ΚΑΤΗΓΟΡΙΑ",
+	"year": "ΕΤΟΣ",
+	"total_gas_consumption": "ΣΥΝΟΛΟ ΚΑΤΑΝΑΛΩΣΗΣ ΑΕΡΙΟΥ",
+	"gas_value": "ΑΞΙΑ ΑΕΡΙΟΥ",
+	"coordinates_x": "ΣΥΝΤΕΤΑΓΜΕΝΕΣ X",
+	"coordinates_y": "ΣΥΝΤΕΤΑΓΜΕΝΕΣ Y",
+	"barChart_title": "ΚΟΣΤΟΣ ΚΑΥΣΙΜΩΝ",
+	"barChart_code": "ΚΩΔ",
+	"doughnutChart_customers": "ΠΕ",
+	"doughnutChart_title": " ΤΙΜΕΣ ΚΑΥΣΙΜΩΝ",
+	"total": "ΣΥΝΟΛΟ"
+}

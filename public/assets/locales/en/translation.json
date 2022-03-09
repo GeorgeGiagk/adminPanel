@@ -1,0 +1,22 @@
+{
+	"menu_title": "Menu",
+	"home": "Home",
+	"analytics": "Analytics",
+	"customers": "Customers",
+	"notifications_title": "Notifications",
+	"mail": "Mail",
+	"feedback": "Feedback",
+	"messages": "Messages",
+	"customers_code": "CUSTOMER'S CODE",
+	"category": "CATEGORY",
+	"year": "YEAR",
+	"total_gas_consumption": "TOTAL GAS CONSUMPTION",
+	"gas_value": "GAS VALUE",
+	"coordinates_x": "COORDINATES X",
+	"coordinates_y": "COORDINATES Y",
+	"barChart_title": "GAS COST",
+	"barChart_code": "CODE",
+	"doughnutChart_customers": "CU",
+	"doughnutChart_title": " GAS PRICES",
+	"total": "TOTAL"
+}
