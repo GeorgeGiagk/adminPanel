@@ -1,3 +1,8 @@
+## Description
+
+A multi-language Administrator Panel to representing data from a json / xlsx files.
+
+
 ## Libraries
 
 - Reactjs
